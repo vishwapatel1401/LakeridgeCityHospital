@@ -34,9 +34,9 @@ To run this project locally, follow these steps:
 -	Build the solution and run the application.
 
 ## Usage
-1.Launch the application.
-2.Navigate through the menu to manage doctors, rooms, patients, and nurses.
-3.Add, update, and view records as required.
-4.The system will automatically update the database with any changes.
+1. Launch the application.
+2. Navigate through the menu to manage doctors, rooms, patients, and nurses.
+3. Add, update, and view records as required.
+4. The system will automatically update the database with any changes.
 
 
